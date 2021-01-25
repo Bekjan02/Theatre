@@ -18,3 +18,10 @@
     font-size: vw(14);
     @include font(vw(14),400,$sans-regular)
 }
+.btn {
+    padding: vw(18) vw(47);
+    background: $gold;
+    text-transform: uppercase;
+    font-family: $openSans-bold;
+    color: $white;
+}
