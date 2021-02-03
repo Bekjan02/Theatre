@@ -33,7 +33,7 @@
 }
 
 .theatre__img {
-    background: url(/img/theater-img.png) no-repeat center;
+    background: url(./img/theater-img.png) no-repeat center;
     background-size: cover;
 }
 
