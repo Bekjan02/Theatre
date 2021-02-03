@@ -1,0 +1,13 @@
+@media screen  and (max-width:992px) {
+    .hero__box {
+        justify-content: center;
+    }
+
+    .box__right {
+        display: none;
+    }
+
+    .theatre__img {
+        display: none;
+    }
+}

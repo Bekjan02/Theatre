@@ -1,0 +1,13 @@
+@import "./base.css";
+@import "./classes.css";
+@import "./fonts.css";
+@import "./var.css";
+@import "./components/header.css";
+@import "./components/hero.css";
+@import "./components/aboutTheatre.css";
+@import "./components/ourProductions.css";
+@import "./components/achievements.css";
+@import "./components/partners.css";
+@import "./components/footer.css";
+@import "./media.css";
+/* @import "./style.css"; */
