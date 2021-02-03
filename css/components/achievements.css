@@ -1,6 +1,5 @@
 .achievements__content {
-    background: url(/../../img/theater-img2.png) center no-repeat;
-    /* height: 100%; */
+    background: url(./../../img/theater-img2.png) center no-repeat;
     justify-content: space-evenly;
     align-items: center;
     height: 550px;
